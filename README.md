@@ -27,6 +27,7 @@ This recipe is only really worth using if there is more than one block device av
 * `c1.xlarge` 4 x 420 HDD
 * `cc2.8xlarge` 4 x 840 HDD
 * `m2.4xlarge` 2 x 840 HDD
+* `m3.xlarge` 2 x 40 HDD
 * `cr1.8xlarge` 2 x 120 SSD
 * `hi1.4xlarge` 2 x 1,024 SSD
 * `hs1.8xlarge` 24 x 2,048 HDD
